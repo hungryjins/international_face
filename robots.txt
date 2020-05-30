@@ -1,0 +1,4 @@
+User-Agent:*
+Allow: /
+
+Sitemap: https://hungryjins.netlify.app/sitemap.xml
